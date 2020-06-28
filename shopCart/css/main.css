@@ -1,0 +1,90 @@
+.container{
+max-width:100%;
+}
+
+.input-qty {
+width: 60px;
+float: right
+}
+
+.table-cart > tr > td {
+vertical-align: middle !important;
+}
+
+img{
+max-width: 390px;
+margin-top: 3rem;
+}
+
+#app{
+    margin-left: 50px;
+}
+
+.row{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#addCart{
+width: 100%;
+}
+
+.modal-body{
+    float: center;
+}
+
+.site-tab-nav{
+    margin-top: 10rem;
+}
+
+.btn-outline-primary{
+    border: 2px solid grey;
+    border-radius: 4px;
+    color: grey;
+    height: 40px;
+}
+
+.btn-outline-primary:hover{
+    border:black;
+    background-color: grey;
+    color: white;
+}
+
+.form-control:hover{
+    border: 2px solid grey;
+}
+
+#wrapper > :last-child {
+    display: none;
+}
+
+#wrapper.switched > :last-child {
+    display: block;
+}
+
+#wrapper.switched > :first-child {
+    display: none;
+}
+
+.content{
+    text-align: center;
+    margin-top: 10rem;
+}
+
+.modal-backdrop.show {
+    opacity: 0;
+}
+
+.modal-backdrop fade.show{
+    background-color: none;
+}
+
+.modal-backdrop{
+position: relative;
+top: 50px;
+right: 50px;
+bottom: 50px;
+left: 50px;
+background-color: none;
+}
+
