@@ -20,7 +20,7 @@
                         <li><a href="../index.php">Home</a></li>
                         <li><a href="../about/about.php">About Us</a></li>
                         <li><a href="shop.php">Shop</a></li>
-                        <li><a href="../gallery/gallery.html">Gallery</a></li>
+                        <li><a href="../gallery/gallery.php">Gallery</a></li>
                         <li><a href="../contact/contact.php">Contact</a></li>
                         <li><a href="../system/login.php">SignIn</a></li>
                         <li><a href="../system/logout.php">Logout</a></li>
@@ -91,7 +91,7 @@
                                         
             <div class="row">
             <div class="col-xs-3 text-center" v-for="item in items">
-                <img class="img-responsive" :src="item.image" alt="">
+                <img class="img-responsive" :src="item.image" alt="products">
                 <h5>{{item.title}}</h5>
                 <h6>R{{item.price}}</h6>
                 <input v-model="item.qty" type="number" class="form-control" placeholder="Qty" min="1"/>

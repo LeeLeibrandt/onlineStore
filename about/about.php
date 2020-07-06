@@ -20,7 +20,7 @@
                             <li><a href="../index.php">Home</a></li>
                             <li><a href="about.php">About Us</a></li>
                             <li><a href="../shopCart/shop.php">Shop</a></li>
-                            <li><a href="../gallery/gallery.html">Gallery</a></li>
+                            <li><a href="../gallery/gallery.php">Gallery</a></li>
                             <li><a href="../contact/contact.php">Contact</a></li>
                             <li><a href="../system/login.php">SignIn</a></li>
                             <li><a href="../system/logout.php">Logout</a></li>

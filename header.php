@@ -17,3 +17,8 @@
     <title>NATES</title>
   </head>
  
+<style>
+   #iconUp:hover{
+        color:grey;
+    }
+</style>

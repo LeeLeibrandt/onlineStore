@@ -17,7 +17,7 @@
                             <li><a href="#section-home">Home</a></li>
                             <li><a href="about/about.php">About Us</a></li>
                             <li><a href="shopCart/shop.php">Shop</a></li>
-                            <li><a href="gallery/gallery.html">Gallery</a></li>
+                            <li><a href="gallery/gallery.php">Gallery</a></li>
                             <li><a href="contact/contact.php">Contact</a></li>
                             <li><a href="system/login.php">SignIn</a></li>
                             <li><a href="system/logout.php">Logout</a></li>
@@ -124,13 +124,13 @@
                         <h4>Upcoming Collection</h4>
                         <div class="cards">
                             <div class="card feature-icon">
-                                <img src="shopCart/product/28.jpg" alt="">
+                                <img src="shopCart/product/28.jpg" alt="item">
                             </div>
                             <div class="card feature-icon">
-                                <img src="shopCart/product/29.jpg" alt="">
+                                <img src="shopCart/product/29.jpg" alt="item">
                             </div>
                             <div class="card feature-icon">
-                                <img src="shopCart/product/30.jpg" alt="">
+                                <img src="shopCart/product/30.jpg" alt="item">
                             </div>
                         </div>
                     </div>
@@ -139,7 +139,7 @@
                         <figure class="figure7"  data-aos="fade-up">
                             <div class="container">
                                 <a href="shopCart/shop.php">
-                                    <img class="figure-img" src="images/01.jpg" alt="" style="height:400px; margin-bottom:0;">
+                                    <img class="figure-img" src="images/01.jpg" alt="shop" style="height:400px; margin-bottom:0;">
                                     <div class="overlay">
                                         <div class="text"><strong>STORE</strong></div>
                                     </div>
@@ -150,7 +150,7 @@
                         <figure class="figure7"  data-aos="fade-up">
                             <div class="container">
                                 <a href="gallery/gallery.html">
-                                    <img class="figure-img" src="images/12.jpg" alt="" style="height:400px; margin-bottom:0;">
+                                    <img class="figure-img" src="images/12.jpg" alt="gallery" style="height:400px; margin-bottom:0;">
                                     <div class="overlay">
                                         <div class="text"><strong>GALLERY</strong></div>
                                     </div>
@@ -161,7 +161,7 @@
                         <figure class="figure7"  data-aos="fade-up">
                             <div class="container">
                                 <a href="about/about.php">
-                                <img class="figure-img" src="images/11.jpg" alt="" style="height:400px; margin-bottom:0;">
+                                <img class="figure-img" src="images/11.jpg" alt="about" style="height:400px; margin-bottom:0;">
                                     <div class="overlay">
                                         <div class="text"><strong>ABOUT</strong></div>
                                     </div>
@@ -172,7 +172,7 @@
                         <figure class="figure7"  data-aos="fade-up">
                             <div class="container">
                                 <a href="contact/contact.php">
-                                <img class="figure-img" src="images/13.jpg" alt="" style="height:400px; margin-bottom:0;">
+                                <img class="figure-img" src="images/13.jpg" alt="contact" style="height:400px; margin-bottom:0;">
                                     <div class="overlay">
                                         <div class="text"><strong>CONTACT</strong></div>
                                     </div>
